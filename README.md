@@ -1,2 +1,3 @@
 # GitPractice
-This is a verification line to      check status in VsCode
+This is a verification line to  check status in VsCode
+added a new line
